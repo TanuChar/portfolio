@@ -1,0 +1,86 @@
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+/* body
+{
+    background-color: blue;
+} */
+nav .navbar-brand
+{
+    font-size: 2rem;
+}
+#more
+{
+    padding: 3% 15%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5rem;
+    font-weight: 2;
+    line-height: 2;
+    letter-spacing: 2px;
+}
+#more .content
+{
+    padding-top: %;
+}
+/* #more .profile .pp
+{
+    height: 50%;
+    width: 50%;
+    border-radius: 100%;
+    display: inline-block;
+    margin: auto;
+} */
+#more .profile
+{
+    /* height: 30%; */
+}
+#myskills
+{
+    text-align: center;
+    padding: 3% 15%;
+}
+h2
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 2;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: underline cornflowerblue;
+}
+#myskills .fa
+{
+    width: 30%;
+    height: 50%;
+    margin: 2% 1% 0 1%;
+}
+
+#mywork
+{
+    padding: 3% 15%;
+}
+#mywork h3{
+    text-align: center;
+}
+#contactform
+{
+    padding: 3% 15%;
+    /* text-align: center; */
+}
+#footer
+{
+    padding: 1% 15%;
+    text-align: center;
+    background-color: rgb(175, 173, 173);
+}
+#footer p
+{
+    color: #8f8f8f;
+    font-size: 1.5rem;
+    letter-spacing: 1;
+}
+#footer .fa
+{
+    margin: 1% 2% 2% 2%;
+}
+
